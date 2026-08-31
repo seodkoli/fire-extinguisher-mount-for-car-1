@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Privacy Policy</title>
+<meta name="title" content="Privacy Policy">
+<meta name="DC.title" lang="en" content="Privacy Policy">
+<meta name="description" content="">
+<meta name="robots" content="index, follow">
+<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<link rel="canonical" href="privacy-policy.html">
+<link rel="shortcut icon"  href="img/logo.jpg"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kumbh+Sans:100,200,300,400,500,600,700,800,900&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style type="text/css">
+*{
+font-family: 'Kumbh Sans', sans-serif;
+}
+.w52c1b5b34b32183fb2788fba11d8d2ab ul{
+padding-left: 0px;
+}
+.w52c1b5b34b32183fb2788fba11d8d2ab{
+padding-top: 4rem;
+padding-bottom: 6rem;
+background-color: #121212;
+bottom: 0;
+z-index: 0;
+width: 100%;
+}
+.w52c1b5b34b32183fb2788fba11d8d2ab *{
+color:#ffffff;
+font-size:16px!important;
+}
+.hamburger span:nth-child(3){
+top: 8px;
+transition: all 0.15s;
+}
+a:hover{
+color:#ffffff!important;
+background: #ffc658!important;
+opacity: .75;
+text-decoration: none;
+}
+p, .xebd819cdc18968d80a28f6031ec4a47d{
+font-size:16px;
+line-height: 1.68;
+font-weight: 400;
+}
+a:hover, a:focus, a.active{
+color:#ffffff!important;
+}
+.navbar-nav li:hover>.dropdown-menu{
+display: block;
+}
+.hamburger span:nth-child(2){
+top: 8px;
+transition: all 0.15s;
+}
+.zc36b5570f004e3c54c8b2bcc64005d81:hover, .zc36b5570f004e3c54c8b2bcc64005d81:focus, .zc36b5570f004e3c54c8b2bcc64005d81.focus, .zc36b5570f004e3c54c8b2bcc64005d81.active{
+color: #ffffff !important;
+background-color: #000000 !important;
+border-color: #000000 !important;
+}
+.nav-link{
+color: #000000!important;
+}
+.t1b5e2b4185f96ffbf9c749b002375509 i{
+font-size: 19.5px;
+padding: 10px;
+}
+.zc36b5570f004e3c54c8b2bcc64005d81,.zc36b5570f004e3c54c8b2bcc64005d81:active{
+background-color:#ffc107!important;
+border-color:#000000!important;
+color:#000000!important;
+padding: 10.4px 19.8px!important;
+border-radius: 0;
+font-weight: 700!important;
+letter-spacing: 0px;
+transition-property: all;
+transition-duration: .2s;
+min-width: 200.2px !important;
+}
+.d15cef32dbae41f393070ed0c19a83aeb{
+font-weight: 700 !important;
+}
+a{
+color: black;
+text-decoration: none;
+}
+.hamburger span{
+position: absolute;
+right: 0;
+width: 30.4px;
+height: 2px;
+border-right: 5px;
+background-color: #000000;
+}
+.dropdown-item{
+display: block;
+width: 100%;
+clear: both;
+font-weight: 400;
+color: #212529;
+text-align: inherit;
+white-space: nowrap;
+background-color: transparent;
+border: 0;
+}
+.hamburger span:nth-child(1){
+top: 0;
+transition: all 0.2s;
+}
+.w52c1b5b34b32183fb2788fba11d8d2ab li{
+list-style: none;
+padding-left: 0;
+margin-top: 1.5rem;
+text-align: left;
+color: #000000;
+}
+.navbar-toggler{
+-webkit-align-self: flex-start;
+-ms-flex-item-align: start;
+align-self: flex-start;
+padding: 0px 0px;
+font-size: 19.6px;
+line-height: 1;
+background: transparent;
+border: 1px solid transparent!important;
+border-radius: 0.25rem;
+}
+.navbar{
+background: #ffffff;
+transition: none;
+min-height: 76.8px;
+padding-top: 9.6px;
+padding-bottom: 10.3px;
+position: relative;
+z-index: 1000;
+box-shadow: 0 0 15.5px 0 rgb(0 0 0 / 10%);
+}
+.hamburger span:nth-child(4){
+top: 16px;
+transition: all 0.2s;
+}
+.fa-star,.fa-star-half-alt{
+font-size: 15.4px;
+}
+.nav-item .nav-link{
+display: -webkit-flex;
+align-items: center;
+padding: 12.5px 0!important;
+margin: 0px 19.6px!important;
+-webkit-align-items: center;
+}
+button.navbar-toggler{
+width: 30.9px;
+height: 18.5px;
+cursor: pointer;
+transition: all 0.2s;
+top: 2rem;
+display: block;
+right: 1.5rem;
+position: absolute;
+}
+.w52c1b5b34b32183fb2788fba11d8d2ab a{
+color:#ffffff;
+text-decoration: underline;
+}
+.nav-link:hover, .dropdown-item:hover{
+ opacity: .75;
+}
+.w52c1b5b34b32183fb2788fba11d8d2ab .f3b678ad86841efd59abb99608fc3bbac{
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding-top: 1.5rem;
+margin-top: 4rem;
+border-top: 2px solid #ffffff;
+}
+.dropdown .dropdown-menu{
+background: #ffffff;
+position: absolute;
+display: none;
+min-width: 49.7px;
+padding-top: 9.5px;
+box-shadow: 0 0 14.5px 0 rgb(0 0 0 / 10%);
+padding-bottom: 9.5px;
+text-align: left;
+}
+html{
+scroll-behavior: smooth;
+}
+.dropdown .dropdown-menu .dropdown-item{
+width: auto;
+padding: 0.2em 1.3em 0.2em 1.3em !important;
+}
+
+.dropdown-submenu {
+    position: relative;
+}
+
+.dropdown-submenu>.dropdown-menu {
+    top: 0px;
+    left: 100%;
+    margin-top: -16px;
+    margin-left: -1px;
+    -webkit-border-radius: 0 6px 6px 6px;
+    -moz-border-radius: 0 6px 6px;
+    border-radius: 0 6px 6px 6px;
+  
+}
+
+/* Smart positioning for right-edge dropdowns */
+.dropdown-menu-right .dropdown-submenu>.dropdown-menu,
+.nav-item:last-child .dropdown-submenu>.dropdown-menu,
+.nav-item:nth-last-child(2) .dropdown-submenu>.dropdown-menu {
+    left: auto;
+    right: 100%;
+    margin-left: 0;
+    margin-right: -1px;
+    -webkit-border-radius: 6px 0 6px 6px;
+    -moz-border-radius: 6px 0 6px 6px;
+    border-radius: 6px 0 6px 6px;
+}
+
+.dropdown-submenu:hover>.dropdown-menu {
+    display: block;
+}
+
+.dropdown-submenu>a:after {
+    display: block;
+    content: " ";
+    float: right;
+    width: 0;
+    height: 0;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 5px 0 5px 5px;
+    border-left-color: #ccc;
+    margin-top: 5px;
+    margin-right: -10px;
+}
+
+.dropdown-submenu:hover>a:after {
+    border-left-color: #fff;
+}
+
+/* For left-positioned dropdowns, reverse the arrow */
+.dropdown-menu-right .dropdown-submenu>a:after,
+.nav-item:last-child .dropdown-submenu>a:after,
+.nav-item:nth-last-child(2) .dropdown-submenu>a:after {
+    float: left;
+    border-width: 5px 5px 5px 0;
+    border-left-color: transparent;
+    border-right-color: #ccc;
+    margin-left: -10px;
+    margin-right: 0;
+}
+
+.dropdown-menu-right .dropdown-submenu:hover>a:after,
+.nav-item:last-child .dropdown-submenu:hover>a:after,
+.nav-item:nth-last-child(2) .dropdown-submenu:hover>a:after {
+    border-right-color: #fff;
+    border-left-color: transparent;
+}
+ 
+
+.multi-column-dropdown .dropdown-item {
+    break-inside: avoid;
+    page-break-inside: avoid;
+    -webkit-column-break-inside: avoid;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .multi-column-dropdown {
+      
+        width: 100%;
+    }
+    
+    .dropdown-submenu>.dropdown-menu {
+        position: static;
+        margin: 0;
+        border: none;
+        box-shadow: none;
+    }
+}
+
+/* Use hover only where it exists */
+@media (hover:hover) {
+  .dropdown-submenu:hover > .dropdown-menu { display:block; }
+}
+
+/* Nested dropdowns should show when .show is present (Bootstrap only sets this for top-level) */
+.dropdown-menu .dropdown-menu { display:none; }
+.dropdown-menu .dropdown-menu.show { display:block; }
+
+/* Mobile layout: stack submenus and remove weird offsets */
+@media (max-width: 991.98px) {
+  .dropdown-menu {
+    position: static;          /* keeps the menu within the flow so it won't render off-screen */
+    float: none;
+    margin: 0;
+    box-shadow: none;
+    border: 0;
+  }
+  .dropdown-submenu > .dropdown-menu {
+    margin-left: 0;
+    max-height: 60vh;          /* scroll if long */
+    overflow-y: auto;
+  }
+}
+</style>
+</head>
+<body>
+<nav class="navbar px-md-5 navbar-expand-lg">
+<a class="navbar-brand" href="index.html"  > 
+<img alt="" src="img/logo.jpg"  >
+</a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<div class="hamburger"><span></span><span></span><span></span><span></span></div>
+</button>
+<div class="collapse navbar-collapse" id="navbarSupportedContent">
+<ul class="ml-auto navbar-nav">
+<li class="nav-item">
+<a class="xebd819cdc18968d80a28f6031ec4a47d nav-link" href="index.html" ><b>vehicle fire extinguisher holder</b></a>
+</li>
+<li class="nav-item">
+<a class="nav-link xebd819cdc18968d80a28f6031ec4a47d" href="off-road-fire-extinguisher-mount.html" ><b>off road fire extinguisher mount</b></a>
+</li>
+<li class="nav-item">
+<a class="nav-link xebd819cdc18968d80a28f6031ec4a47d" href="seat-mount-fire-extinguisher-bracket.html" ><b>seat mount fire extinguisher bracket</b></a>
+</li>
+<li class="nav-item">
+<a class="xebd819cdc18968d80a28f6031ec4a47d nav-link" href="fire-extinguisher-clamp-for-car.html" ><b>fire extinguisher clamp for car</b></a>
+</li>
+<li class="nav-item dropdown">
+<a class="xebd819cdc18968d80a28f6031ec4a47d dropdown-toggle nav-link" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false"><b>More</b></a>
+<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+<a class="dropdown-item xebd819cdc18968d80a28f6031ec4a47d" href="fire-extinguisher-mounting-kit-for-car.html" >fire extinguisher mounting kit for car</a>
+<a class="xebd819cdc18968d80a28f6031ec4a47d dropdown-item" href="roll-bar-fire-extinguisher-mount.html" >roll bar fire extinguisher mount</a>
+<a class="dropdown-item xebd819cdc18968d80a28f6031ec4a47d" href="fire-extinguisher-mounting-hardware-for-car.html" >fire extinguisher mounting hardware for car</a>
+<a class="xebd819cdc18968d80a28f6031ec4a47d dropdown-item" href="automotive-fire-extinguisher-holder.html" >automotive fire extinguisher holder</a>
+<a class="dropdown-item xebd819cdc18968d80a28f6031ec4a47d" href="car-fire-extinguisher-mounting-kit.html" >car fire extinguisher mounting kit</a>
+<a class="xebd819cdc18968d80a28f6031ec4a47d dropdown-item" href="truck-fire-extinguisher-mount.html" >truck fire extinguisher mount</a>
+</div>
+</li><li class="nav-item"><a class="nav-link xebd819cdc18968d80a28f6031ec4a47d" href="about-us.html"><b>About Us</b></a></li>
+</ul>
+</div>
+</nav>
+<div>
+<section class="container">
+<h1>Privacy Policy for </h1>
+<p>At  one of our main priorities is the privacy of our visitors.
+ This Privacy Policy document contains types of information that is collected and recorded by  and how we use it. You can check out our main website here: </p>
+<p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
+<p>This Privacy Policy only applies to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in . This policy is not applicable to any information collected offline or via channels other than this website. </p>
+<h2>Consent</h2>
+<p>By using our website, you hereby consent to our Privacy Policy and agree to its terms.</p>
+<h2>Information we collect</h2>
+<p>The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.</p>
+<p>If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.</p>
+<p>When you register for an Account, we may ask for your contact information, including items such as name, , address, email address, and telephone number.</p>
+<h2>How we use your information</h2>
+<p>We use the information we collect in various ways, including to:</p>
+<ul>
+<li>Provide, operate, and maintain our website</li>
+<li>Improve, personalize, and expand our website</li>
+<li>Understand and analyze how you use our website</li>
+<li>Develop new products, services, features, and functionality</li>
+<li>Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the website, and for marketing and promotional purposes</li>
+<li>Send you emails</li>
+<li>Find and prevent fraud</li>
+</ul>
+<h2>Log Files</h2>
+<p> follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.</p>
+<h2>Advertising Partners Privacy Policies</h2>
+<P>You may consult this list to find the Privacy Policy for each of the advertising partners of .</p>
+<p>Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on , which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.</p>
+<p>Note that  has no access to or control over these cookies that are used by third-party advertisers.</p>
+<h2>Third Party Privacy Policies</h2>
+<p>'s Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. </p>
+<p>You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.</p>
+<h2>CCPA Privacy Rights (Do Not Sell My Personal Information)</h2>
+<p>Under the CCPA, among other rights, California consumers have the right to:</p>
+<p>Request that a business that collects a consumer's personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.</p>
+<p>Request that a business delete any personal data about the consumer that a business has collected.</p>
+<p>Request that a business that sells a consumer's personal data, not sell the consumer's personal data.</p>
+<p>If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.</p>
+<h2>GDPR Data Protection Rights</h2>
+<p>We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:</p>
+<p>The right to access – You have the right to request copies of your personal data. We may charge you a small fee for this service.</p>
+<p>The right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete.</p>
+<p>The right to erasure – You have the right to request that we erase your personal data, under certain conditions.</p>
+<p>The right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions.</p>
+<p>The right to object to processing – You have the right to object to our processing of your personal data, under certain conditions.</p>
+<p>The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.</p>
+<p>If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.</p>
+<h2>Children's Information</h2>
+<p>Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.</p>
+<p> does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>
+<h2>Publisher</h2>
+<p>
+This website is owned and published by:
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</p>
+</section>
+</div>
+<footer class="w52c1b5b34b32183fb2788fba11d8d2ab">
+<div class="container"><div class="row"><div class="col-md-3">
+<h5 class="ef2041d6be4ed9cfb52c8bedef85d14ac mb-3 wbe0e9a14caa98487c0d129fdbae39838"><b>USEFUL LINKS</b></h5> 
+<ul class="xebd819cdc18968d80a28f6031ec4a47d">
+<li><a href="https://www.pinterest.com/f4fabrication/" rel="nofollow" target="_blank">fire extinguisher bracket for car</a></li><li><a href="https://www.tiktok.com/@f4fabrications" rel="nofollow" target="_blank">vehicle fire extinguisher bracket</a></li></ul>
+</div></div><div class="row">
+<div class="col-12">
+<div class="f3b678ad86841efd59abb99608fc3bbac">
+<div><a href="sitemap.html" rel="nofollow">Sitemap | </a>
+<a class="xebd819cdc18968d80a28f6031ec4a47d" href="privacy-policy.html" rel="nofollow">Privacy Policy</a> 
+<a href="about-us.html" rel="nofollow">
+<b>About Us</b></a>
+</div><div>
+<p>Follow us</p>
+<a href="https://www.facebook.com/f4fabrication/" class="t1b5e2b4185f96ffbf9c749b002375509 facebook" rel="nofollow"><i class="fa fa-facebook"></i></a>
+<a href="http://linkedin.com/company/f4fabrication" class="t1b5e2b4185f96ffbf9c749b002375509 pinterest" rel="nofollow"><i class="fa fa-linkedin"></i></a>
+<a href="https://www.instagram.com/f4fabrication/" class="t1b5e2b4185f96ffbf9c749b002375509 google-plus" rel="nofollow"><i class="fa fa-instagram"></i></a>
+<a href="https://www.youtube.com/@F4Fabrications" class="t1b5e2b4185f96ffbf9c749b002375509 youtube" rel="nofollow"><i class="fa fa-youtube"></i></a>
+<a href="https://x.com/F4FABRICATION" class="t1b5e2b4185f96ffbf9c749b002375509 twitter" rel="nofollow"><i class="fa fa-twitter"></i></a>
+</div></div>
+</div>
+</div></div>
+</footer></body>
+<script type="text/javascript">
+document.addEventListener('DOMContentLoaded', function() {
+var dropdowns = document.querySelectorAll('.dropdown-hover');
+function showDropdown() {
+var dropdownMenu = this.querySelector('.dropdown-menu');
+dropdownMenu.style.display = 'block';
+}
+function hideDropdown() {
+var dropdownMenu = this.querySelector('.dropdown-menu');
+dropdownMenu.style.display = 'none';
+}
+function handleClick(event) {
+var target = event.target;
+window.location.href = target.getAttribute('href');
+}
+dropdowns.forEach(function(dropdown) {
+dropdown.addEventListener('mouseenter', showDropdown);
+dropdown.addEventListener('mouseleave', hideDropdown);
+var dropdownMenu = dropdown.querySelector('.dropdown-toggle');
+dropdownMenu.addEventListener('click', handleClick);
+});
+});
+</script>
+ <script>
+(function() {
+  // Works with both BS4 (data-toggle events) and BS5
+  var $ = window.jQuery;
+
+  // Toggle nested submenu on click/tap
+  $(document).on('click', '.dropdown-submenu > a', function(e) {
+    var $toggle = $(this);
+    var $submenu = $toggle.next('.dropdown-menu');
+
+    // If there isn't a submenu, behave like a normal link
+    if (!$submenu.length) return;
+
+    e.preventDefault();
+    e.stopPropagation();
+
+    // Close sibling submenus at the same level
+    $toggle.parent('.dropdown-submenu')
+      .siblings('.dropdown-submenu')
+      .find('>.dropdown-menu.show')
+      .removeClass('show');
+
+    // Toggle this submenu
+    $submenu.toggleClass('show');
+
+    // Keep parent dropdown open
+    $toggle.closest('.dropdown-menu').addClass('show');
+
+    // Accessibility state
+    $toggle.attr('aria-expanded', $submenu.hasClass('show') ? 'true' : 'false');
+  });
+
+  // When the top-level dropdown closes, close all nested submenus
+  $(document).on('hidden.bs.dropdown', '.dropdown', function() {
+    $(this).find('.dropdown-menu.show').removeClass('show');
+  });
+})();
+</script>
